@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="defaultScore">0</string>
+    <string name="teamNameA">Chicago Bulls</string>
+    <string name="teamNameB">Lakers</string>
+    <string name="tripleScore">+3 POINTS</string>
+    <string name="doubleScore">+2 POINTS</string>
+    <string name="freeScore">FREE THROW</string>
+</resources>
